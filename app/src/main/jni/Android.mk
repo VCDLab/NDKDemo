@@ -10,7 +10,7 @@ OPENCV_CAMERA_MODULES:=on
 OPENCV_INSTALL_MODULES:=on
 OPENCV_LIB_TYPE:=SHARED
 
-LOCAL_SRC_FILES += imgproc.cpp mytest.cpp
+LOCAL_SRC_FILES += imgproc.cpp test/mytest.cpp
 LOCAL_LDLIBS += -llog
 LOCAL_MODULE := gray-process
 

@@ -2,7 +2,7 @@
 /* Header for class com_kuan_vision_ndkdemo_MainActivity */
 #include <opencv2/opencv.hpp>
 
-#include <mytest.h>
+#include <test/mytest.h>
 
 extern "C" {
 using namespace cv;

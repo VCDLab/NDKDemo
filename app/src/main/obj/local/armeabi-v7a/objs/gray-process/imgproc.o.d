@@ -61,7 +61,7 @@
  /Users/zhuang/AndroidStudioProjects/NDKDemo/app/src/main/jni/../opencv-native/jni/include/opencv2/ml.hpp \
  /Users/zhuang/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/map \
  /Users/zhuang/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/iostream \
- /Users/zhuang/AndroidStudioProjects/NDKDemo/app/src/main/jni/mytest.h
+ /Users/zhuang/AndroidStudioProjects/NDKDemo/app/src/main/jni/test/mytest.h
 
 /Users/zhuang/AndroidStudioProjects/NDKDemo/app/src/main/jni/../opencv-native/jni/include/opencv2/opencv.hpp:
 
@@ -185,4 +185,4 @@
 
 /Users/zhuang/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/iostream:
 
-/Users/zhuang/AndroidStudioProjects/NDKDemo/app/src/main/jni/mytest.h:
+/Users/zhuang/AndroidStudioProjects/NDKDemo/app/src/main/jni/test/mytest.h:
